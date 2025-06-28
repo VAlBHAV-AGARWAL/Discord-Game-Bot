@@ -1,0 +1,15 @@
+{
+    "wait_cooldown": "{mention}, you must wait {minutes} minutes before counting again.",
+    "ruined_count": "{mention} ruined the count, `!slap`, `!kick` the {mention} so they won't do it again. Start the Count again from 1.",
+    "milestone": "🎉 The count reached {number}! Keep going!",
+    "role_awarded": "{mention} has been awarded the '{role}' role for reaching {number}!",
+    "set_channel": "Counting game channel set to {channel}.",
+    "reset": "Counting game has been reset for this server.",
+    "set_cooldown": "Counting cooldown set to {minutes} minutes.",
+    "no_permission": "You do not have permission to use this command.",
+    "suggestion_received": "Thank you for your suggestion!",
+    "stats": "**Counting Stats for {mention}:**\nHighest Streak: {streak}\nTotal Contributions: {contrib}",
+    "leaderboard_title": "Counting Game Leaderboard",
+    "leaderboard_entry": "{rank}. {mention} — Streak: {streak}, Contributions: {contrib}",
+    "no_stats": "No stats available yet."
+}

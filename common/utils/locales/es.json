@@ -1,0 +1,15 @@
+{
+    "wait_cooldown": "{mention}, debes esperar {minutes} minutos antes de contar de nuevo.",
+    "ruined_count": "{mention} arruinó la cuenta, `!slap`, `!kick` a {mention} para que no lo haga de nuevo. ¡Empieza la cuenta desde 1!",
+    "milestone": "🎉 ¡La cuenta llegó a {number}! ¡Sigue así!",
+    "role_awarded": "{mention} ha recibido el rol '{role}' por alcanzar {number}!",
+    "set_channel": "El canal de conteo se ha establecido en {channel}.",
+    "reset": "El juego de conteo ha sido reiniciado para este servidor.",
+    "set_cooldown": "El tiempo de espera se ha establecido en {minutes} minutos.",
+    "no_permission": "No tienes permiso para usar este comando.",
+    "suggestion_received": "¡Gracias por tu sugerencia!",
+    "stats": "**Estadísticas de conteo para {mention}:**\nMayor racha: {streak}\nContribuciones totales: {contrib}",
+    "leaderboard_title": "Tabla de líderes del juego de conteo",
+    "leaderboard_entry": "{rank}. {mention} — Racha: {streak}, Contribuciones: {contrib}",
+    "no_stats": "Aún no hay estadísticas disponibles."
+}
