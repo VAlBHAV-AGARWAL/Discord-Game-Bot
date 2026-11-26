@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# VSCode
+.vscode/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Databases and logs
+game_stats.db
+discord_bot.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test/coverage
+.coverage
+htmlcov/
+
+# Misc
+*.sqlite3
+*.db
+*.log
+
+# Ignore compiled extensions
+*.so
+*.dll
+*.dylib
+
+# Ignore Jupyter/IPython
+.ipynb_checkpoints/
+
+# Ignore backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# Ignore docs build
+_build/
+docs/_build/
+
+# Ignore user data
+*.sublime-workspace
+*.sublime-project
+
+# Ignore games state
+counting_state.json
